@@ -1,0 +1,78 @@
+{
+  "cnt": 8,
+  "list": [
+    {
+      "id": 1248991,
+      "name": "Colombo",
+      "sys": { "country": "LK", "sunrise": 1714968000, "sunset": 1715012400 },
+      "main": { "temp": 31.2, "temp_min": 29.0, "temp_max": 33.0, "pressure": 1009, "humidity": 74 },
+      "weather": [{ "main": "Clouds", "description": "broken clouds" }],
+      "visibility": 8000,
+      "wind": { "speed": 4.6, "deg": 210 }
+    },
+    {
+      "id": 1850147,
+      "name": "Tokyo",
+      "sys": { "country": "JP", "sunrise": 1714881600, "sunset": 1714930800 },
+      "main": { "temp": 18.3, "temp_min": 16.0, "temp_max": 20.0, "pressure": 1016, "humidity": 60 },
+      "weather": [{ "main": "Clear", "description": "clear sky" }],
+      "visibility": 10000,
+      "wind": { "speed": 2.1, "deg": 90 }
+    },
+    {
+      "id": 2644210,
+      "name": "Liverpool",
+      "sys": { "country": "GB", "sunrise": 1714878000, "sunset": 1714933200 },
+      "main": { "temp": 12.5, "temp_min": 10.0, "temp_max": 14.0, "pressure": 1020, "humidity": 70 },
+      "weather": [{ "main": "Rain", "description": "light rain" }],
+      "visibility": 10000,
+      "wind": { "speed": 5.5, "deg": 250 }
+    },
+    {
+      "id": 2988507,
+      "name": "Paris",
+      "sys": { "country": "FR", "sunrise": 1714875600, "sunset": 1714930800 },
+      "main": { "temp": 19.8, "temp_min": 18.0, "temp_max": 21.0, "pressure": 1018, "humidity": 55 },
+      "weather": [{ "main": "Clear", "description": "clear sky" }],
+      "visibility": 10000,
+      "wind": { "speed": 3.2, "deg": 180 }
+    },
+    {
+      "id": 2147714,
+      "name": "Sydney",
+      "sys": { "country": "AU", "sunrise": 1714892400, "sunset": 1714939200 },
+      "main": { "temp": 23.4, "temp_min": 21.0, "temp_max": 25.0, "pressure": 1012, "humidity": 65 },
+      "weather": [{ "main": "Rain", "description": "moderate rain" }],
+      "visibility": 9000,
+      "wind": { "speed": 6.0, "deg": 200 }
+    },
+    {
+      "id": 4930956,
+      "name": "Boston",
+      "sys": { "country": "US", "sunrise": 1714896000, "sunset": 1714947600 },
+      "main": { "temp": 14.1, "temp_min": 12.0, "temp_max": 16.0, "pressure": 1015, "humidity": 58 },
+      "weather": [{ "main": "Mist", "description": "mist" }],
+      "visibility": 6000,
+      "wind": { "speed": 1.8, "deg": 150 }
+    },
+    {
+      "id": 1796236,
+      "name": "Shanghai",
+      "sys": { "country": "CN", "sunrise": 1714879200, "sunset": 1714928400 },
+      "main": { "temp": 20.5, "temp_min": 19.0, "temp_max": 22.0, "pressure": 1010, "humidity": 68 },
+      "weather": [{ "main": "Clouds", "description": "scattered clouds" }],
+      "visibility": 10000,
+      "wind": { "speed": 3.7, "deg": 120 }
+    },
+    {
+      "id": 3143244,
+      "name": "Oslo",
+      "sys": { "country": "NO", "sunrise": 1714873200, "sunset": 1714928400 },
+      "main": { "temp": 8.3, "temp_min": 6.0, "temp_max": 10.0, "pressure": 1022, "humidity": 50 },
+      "weather": [{ "main": "Clear", "description": "clear sky" }],
+      "visibility": 10000,
+      "wind": { "speed": 2.9, "deg": 30 }
+    }
+  ]
+}
+
