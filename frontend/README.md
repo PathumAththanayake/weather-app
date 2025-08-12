@@ -16,7 +16,7 @@
    - Set Allowed Web Origins to: `http://localhost:3000`
    - Enable MFA (email verification).
    - Disable public signups; only pre-registered users can log in.
-   - Create a test user: careers@fidenz.com / Pass#fidenz
+   - Create a test user: username/pw
 3. Set your Auth0 values in `src/auth_config.json`:
    ```json
    {
